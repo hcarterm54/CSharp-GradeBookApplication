@@ -6,7 +6,7 @@ namespace GradeBook.GradeBooks
     {
         public StandardGradeBook(string name) :base(name)
         {
-            Type = GradebookType.Standard;
+            Type = GradeBookType.Standard;
         }
     }
 }
